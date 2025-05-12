@@ -9,7 +9,7 @@
 - Python (Pandas, NumPy, Seaborn)
 
 📊 My Projects:
-- [Zylentrix Engagement Dashboard](https://github.com/VENKATARAMANA810/Zylentrix-Engagement-Analysis)
+- [Zylentrix Engagement Dashboard](https://github.com/VENKATARAMANA810/-Zylentrix-Online-Learning-Platform-User-Engagement-Analysis-Power-BI-)
 - [HR Analytics Dashboard](https://github.com/VENKATARAMANA810/HR-DATA-ANALYTICS-DASHBOARD)
 - [Olympics Medals Analysis](https://github.com/VENKATARAMANA810/2024-OLYMPICS-MEDALS-COUNTRIES-WISE-ANALYSIS)
 
