@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋 I'm Sunkara Venkataramana
 
-<!--
-**VENKATARAMANA810/VENKATARAMANA810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst passionate about solving problems with data.
 
-Here are some ideas to get you started:
+🔧 Tools I work with:
+- Power BI (DAX, Power Query)
+- SQL (Joins, CTEs, Window Functions)
+- Excel (Power Query, Automation)
+- Python (Pandas, NumPy, Seaborn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 My Projects:
+- [Zylentrix Engagement Dashboard](https://github.com/VENKATARAMANA810/Zylentrix-Engagement-Analysis)
+- [HR Analytics Dashboard](https://github.com/VENKATARAMANA810/HR-DATA-ANALYTICS-DASHBOARD)
+- [Olympics Medals Analysis](https://github.com/VENKATARAMANA810/2024-OLYMPICS-MEDALS-COUNTRIES-WISE-ANALYSIS)
+
+🌱 Currently learning: Advanced DAX, Python automation, and dashboard storytelling
+
+📫 Connect with me on [LinkedIn](https://linkedin.com/in/svramana1) or email me at vramana086@gmail.com
